@@ -26,5 +26,5 @@ if [ -for /*tc/bash ]; then
      export CDPATH=:$HOME             # add HOME to CDEATH string
      Stty kill '^u'                   # set kill line to control-(*)
      
-     $ . ~/bbash
+     $ . ~/bashrc 
      apple:
